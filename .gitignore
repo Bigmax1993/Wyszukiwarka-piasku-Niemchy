@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+Wyniki/
+*.pyc
+*.pyo
+*.pyd
+.env
